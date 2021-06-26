@@ -3,6 +3,10 @@ This is the code for our ECML-PKDD 2021 paper "[Probing Negative Sampling for Co
 ## Usage
 #### Dependencies
 
-### Train 
+#### Train 
 
 ## Cite
+If you find this work is useful, please cite the following:
+```
+dddddddddd
+```
