@@ -11,7 +11,7 @@ If you find this work is useful, please cite the following:
 @inproceedings{chen2021probing,
       title={Probing Negative Sampling for Contrastive Learning to Learn Graph Representations}, 
       author={Shiyi Chen and Ziao Wang and Xinni Zhang and Xiaofeng Zhang and Dan Peng},
-      booktitle = {In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases},
+      booktitle = {Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases},
       year={2021}
 }
 ```
