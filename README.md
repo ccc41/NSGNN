@@ -8,5 +8,10 @@ This is the code for our ECML-PKDD 2021 paper "[Probing Negative Sampling for Co
 ## Cite
 If you find this work is useful, please cite the following:
 ```
-dddddddddd
+@inproceedings{chen2021probing,
+      title={Probing Negative Sampling for Contrastive Learning to Learn Graph Representations}, 
+      author={Shiyi Chen and Ziao Wang and Xinni Zhang and Xiaofeng Zhang and Dan Peng},
+      booktitle = {In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases},
+      year={2021}
+}
 ```
